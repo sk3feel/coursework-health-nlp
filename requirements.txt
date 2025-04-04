@@ -1,0 +1,17 @@
+# Работа с данными
+pandas>=1.3.0
+scikit-learn>=1.0.0
+joblib>=1.1.0
+
+# Парсинг Reddit и API
+praw>=7.6.0
+openai>=1.0.0
+
+torch>=2.0.0
+transformers>=4.37.0
+tqdm>=4.60.0
+
+aiogram>=3.0.0
+matplotlib>=3.5.0
+
+
